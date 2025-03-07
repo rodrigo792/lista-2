@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\algoritmo9\bin\Debug\net8.0\algoritmo9.exe
+C:\Users\User\source\repos\algoritmo9\bin\Debug\net8.0\algoritmo9.deps.json
+C:\Users\User\source\repos\algoritmo9\bin\Debug\net8.0\algoritmo9.runtimeconfig.json
+C:\Users\User\source\repos\algoritmo9\bin\Debug\net8.0\algoritmo9.dll
+C:\Users\User\source\repos\algoritmo9\bin\Debug\net8.0\algoritmo9.pdb
+C:\Users\User\source\repos\algoritmo9\obj\Debug\net8.0\algoritmo9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\algoritmo9\obj\Debug\net8.0\algoritmo9.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\algoritmo9\obj\Debug\net8.0\algoritmo9.AssemblyInfo.cs
+C:\Users\User\source\repos\algoritmo9\obj\Debug\net8.0\algoritmo9.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\algoritmo9\obj\Debug\net8.0\algoritmo9.dll
+C:\Users\User\source\repos\algoritmo9\obj\Debug\net8.0\refint\algoritmo9.dll
+C:\Users\User\source\repos\algoritmo9\obj\Debug\net8.0\algoritmo9.pdb
+C:\Users\User\source\repos\algoritmo9\obj\Debug\net8.0\algoritmo9.genruntimeconfig.cache
+C:\Users\User\source\repos\algoritmo9\obj\Debug\net8.0\ref\algoritmo9.dll
