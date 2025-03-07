@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\algoritmo5\bin\Debug\net8.0\algoritmo5.exe
+C:\Users\User\source\repos\algoritmo5\bin\Debug\net8.0\algoritmo5.deps.json
+C:\Users\User\source\repos\algoritmo5\bin\Debug\net8.0\algoritmo5.runtimeconfig.json
+C:\Users\User\source\repos\algoritmo5\bin\Debug\net8.0\algoritmo5.dll
+C:\Users\User\source\repos\algoritmo5\bin\Debug\net8.0\algoritmo5.pdb
+C:\Users\User\source\repos\algoritmo5\obj\Debug\net8.0\algoritmo5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\algoritmo5\obj\Debug\net8.0\algoritmo5.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\algoritmo5\obj\Debug\net8.0\algoritmo5.AssemblyInfo.cs
+C:\Users\User\source\repos\algoritmo5\obj\Debug\net8.0\algoritmo5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\algoritmo5\obj\Debug\net8.0\algoritmo5.dll
+C:\Users\User\source\repos\algoritmo5\obj\Debug\net8.0\refint\algoritmo5.dll
+C:\Users\User\source\repos\algoritmo5\obj\Debug\net8.0\algoritmo5.pdb
+C:\Users\User\source\repos\algoritmo5\obj\Debug\net8.0\algoritmo5.genruntimeconfig.cache
+C:\Users\User\source\repos\algoritmo5\obj\Debug\net8.0\ref\algoritmo5.dll

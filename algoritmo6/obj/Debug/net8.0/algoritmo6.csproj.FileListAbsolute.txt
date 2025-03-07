@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\algoritmo6\bin\Debug\net8.0\algoritmo6.exe
+C:\Users\User\source\repos\algoritmo6\bin\Debug\net8.0\algoritmo6.deps.json
+C:\Users\User\source\repos\algoritmo6\bin\Debug\net8.0\algoritmo6.runtimeconfig.json
+C:\Users\User\source\repos\algoritmo6\bin\Debug\net8.0\algoritmo6.dll
+C:\Users\User\source\repos\algoritmo6\bin\Debug\net8.0\algoritmo6.pdb
+C:\Users\User\source\repos\algoritmo6\obj\Debug\net8.0\algoritmo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\algoritmo6\obj\Debug\net8.0\algoritmo6.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\algoritmo6\obj\Debug\net8.0\algoritmo6.AssemblyInfo.cs
+C:\Users\User\source\repos\algoritmo6\obj\Debug\net8.0\algoritmo6.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\algoritmo6\obj\Debug\net8.0\algoritmo6.dll
+C:\Users\User\source\repos\algoritmo6\obj\Debug\net8.0\refint\algoritmo6.dll
+C:\Users\User\source\repos\algoritmo6\obj\Debug\net8.0\algoritmo6.pdb
+C:\Users\User\source\repos\algoritmo6\obj\Debug\net8.0\algoritmo6.genruntimeconfig.cache
+C:\Users\User\source\repos\algoritmo6\obj\Debug\net8.0\ref\algoritmo6.dll
